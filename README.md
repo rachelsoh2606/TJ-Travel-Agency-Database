@@ -63,13 +63,6 @@ This project is a **comprehensive database system** designed for **T&J Travel Ag
      HAVING SUM(p.PayPrice) > 2000;
      ```  
 
-### **📌 Notes:**  
-- Ensure all constraints (e.g., `CHECK` for gender or payment methods) are enforced during data insertion.  
-- The **ERD diagram** (included in the document) provides a **visual guide** to the database schema.  
 
----  
 
-This database system empowers **T&J Travel Agency** to efficiently manage operations, personalize customer experiences, and make **data-driven decisions** for business growth. 🚀 For further assistance, refer to the detailed documentation in the attached file.  
-
-💡 **Happy Travels & Happy Querying!** ✈️📊
  
